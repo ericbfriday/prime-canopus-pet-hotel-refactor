@@ -1,5 +1,5 @@
 # Multi Table Pet Hotel
-Your client is loving the work you did for them to build their pet hotel app. They want to add the additional functionality to track pet visits to the hotel (hard mode) and pet owners (hard mode). This will give you the ability to try your new sql **JOINs** chops. They have an additional requirement, they want you to use **Angular** for the front end. 
+Your client is loving the work you did for them to build their pet hotel app. They want to add the additional functionality to track pet visits to the hotel (hard mode) and pet owners (pro mode). This will give you the ability to try your new sql **JOINs** chops. They have an additional requirement, they want you to use **Angular** for the front end. 
 
 ## Base Mode
 Refactor the pet hotel app to use angular. You are in new groups this week, so pick a group members project that completed base mode last week. Spend some time getting the group up to speed on the code. This is good practice for having to read other peoples code on the job.
